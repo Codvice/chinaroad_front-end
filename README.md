@@ -5,15 +5,15 @@
     </td>
     <td width=500px>
       <h1>로그인 초기 화면</h1>
-      <pre>로그인 초기화면입니다. 
+      <p>로그인 초기화면입니다. 
       <h4><strong>1</strong></h4> 이메일로 로그인
       <h4><strong>2</strong></h4> SNS 로그인
       <h4><strong>3</strong></h4> 새 계정 만들기
-      </pre>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width=1000px>
+    <td row=2>
         <pre>
         /* login_bg: */
         /* opacity: */
@@ -74,10 +74,10 @@
     </td>
     <td width=500px>
       <h1>SNS 로그인</h1>
-      <pre>
+      <p>
       Passport 플러그인을 사용하시면 상위 SNS 로그인 연동을 한꺼번에 진행하실 수 있습니다.
       <a href="https://github.com/laravel/passport">Passport with laravel 링크 연결</a>
-      </pre>
+      </p>
     </td>
   </tr>
 </table>
