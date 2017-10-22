@@ -9,7 +9,8 @@
       <h4><strong>1</strong></h4> 이메일로 로그인
       <h4><strong>2</strong></h4> SNS 로그인
       <h4><strong>3</strong></h4> 새 계정 만들기
-      관련 소스 링크 <br/>
+      <br/>
+      <h4><strong>관련 소스 링크</strong>
       <a href="../images/chinaroad_logo.png"> 차이나로드 로고 </a>
       </p>
     </td>
