@@ -74,8 +74,7 @@
     </td>
     <td width=500px>
       <h1>SNS 로그인</h1>
-      <p>
-      Passport 플러그인을 사용하시면 상위 SNS 로그인 연동을 한꺼번에 진행하실 수 있습니다.
+      <p> Passport 플러그인을 사용하시면 상위 SNS 로그인 연동을 한꺼번에 진행하실 수 있습니다.<br/>
       <a href="https://github.com/laravel/passport">Passport with laravel 링크 연결</a>
       </p>
     </td>
@@ -111,7 +110,7 @@
       <img src="../images/Sign Up Last.png" width=375px height=667px>
     </td>
     <td width=500px>
-      <h1>새 계정 만들기 Process 3 [마지막] </h1>
+      <h1>새 계정 만들기 Process 3 </h1>
     </td>
   </tr>
 </table>
